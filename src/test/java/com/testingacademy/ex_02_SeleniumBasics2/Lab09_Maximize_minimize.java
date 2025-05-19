@@ -4,7 +4,7 @@ import io.qameta.allure.Description;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;
 
-public class Lab08_Maximize_minimize {
+public class Lab09_Maximize_minimize {
     @Description("Open the URL")
     @Test
     public void test_MaxMin(){
