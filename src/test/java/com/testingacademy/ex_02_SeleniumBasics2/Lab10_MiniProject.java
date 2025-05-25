@@ -1,10 +1,11 @@
 package com.testingacademy.ex_02_SeleniumBasics2;
 
+import com.testingacademy.CommonToAll;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Lab10_MiniProject extends CommonToAll{
+public class Lab10_MiniProject extends CommonToAll {
 
 
     @Test

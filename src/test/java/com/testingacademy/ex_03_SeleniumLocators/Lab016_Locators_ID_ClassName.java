@@ -33,7 +33,7 @@ public class Lab016_Locators_ID_ClassName {
 //        <input type="password" class="text-input W(100%)" name="password" id="login-password" data-qa="jobodapuxe">
 
         WebElement password_input_box = driver.findElement(By.name("password"));
-        password_input_box.sendKeys("1234");
+        password_input_box.sendKeys( "1234");
 
 //        <button type="submit" id="js-login-btn" class="btn btn--positive btn--inverted W(100%) H(48px) Fz(16px)" onclick="login.login(event)" data-qa="sibequkica">
 //                <span class="icon loader hidden" data-qa="zuyezasugu"></span>
